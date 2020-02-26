@@ -33,7 +33,7 @@ Vagrant.configure("2") do |config|
 
   config.vm.provider "virtualbox" do |vb|
     vb.gui = false
-    vb.name = "Jenkins Server"
+    vb.name = "Docker Jenkins Server"
     vb.memory = "4096"
     vb.cpus = "2"
   end
