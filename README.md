@@ -1,4 +1,4 @@
-# Vagrant Gitlab
+# Vagrant Jenkins
 
 This repo is based on the scripts from the following URLs:
 
